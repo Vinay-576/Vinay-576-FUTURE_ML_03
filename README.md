@@ -23,5 +23,8 @@ This project involves taking a job description dataset from Kaggle, performing n
 - NumPy
 - Kaggle API
 
+## use dataset: https://www.kaggle.com/datasets/ravindrasinghrana/job-description-dataset
+## my clean dataset: https://www.kaggle.com/datasets/vinaydayma/clean-job-description-dataset
+
 ## Conclusion
 By following this process, we aim to enhance the quality of job description data available on Kaggle, making it more useful for data analysis and machine learning tasks.
